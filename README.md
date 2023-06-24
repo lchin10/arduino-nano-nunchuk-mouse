@@ -8,6 +8,7 @@ The C button is right click, and the Z button is left click.
 
 Arduino IDE and Python3 must be installed, along with the pynput Python library.
 I used an Arduino Nano board, but you can also use any ATMEGA328 based board.
+To connect the Wii Nunchuk to the Arduino Nano I used an I2C WiiChuck Adapter Shield Module Board.
 
 ## Circuit Diagram:
   ![image](https://github.com/lchin10/arduino-nano-nunchuk-mouse/assets/46639864/b0bf2ab8-c19a-47f1-a0dc-679ef4365a4a)
